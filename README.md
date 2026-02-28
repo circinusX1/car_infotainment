@@ -1,5 +1,9 @@
 # car_dasboard
-
+* Software related music:
+* 
+    * [![Found this funny video](https://ghitara.com/images/local_gith.png)](https://www.youtube.com/@AIureaSonus)
+ 
+  
 
 This is a 7 years old project just ran into. Work in progress...
 
