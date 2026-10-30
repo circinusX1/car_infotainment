@@ -1,9 +1,5 @@
 # car_dasboard
-* Software related music:
-* 
-    * [![Found this funny video](https://ghitara.com/images/local_gith.png)](https://www.youtube.com/@AIureaSonus)
- 
-  
+[Buy me a coffee](https://www.paypal.com/ncp/payment/UY6RJK9AQ6HVC)
 
 This is a 7 years old project just ran into. Work in progress...
 
